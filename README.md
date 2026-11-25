@@ -75,7 +75,7 @@ g++ -std=c++17 spiderman_height.cpp -o solution
 ## 🤝 Connect & Collaborate
 
 - **Event:** AITR ACM — *100 Days of Code Xpress*
-- **GitHub:** [@your-username](https://github.com/BhaveshDave09)
+- **GitHub:** [@BhaveshDave09](https://github.com/BhaveshDave09)
 
 <div align="center">
 
